@@ -2,7 +2,7 @@
 
 ![alt text](image.png)
 
-Bài chúng ta được 1 file pcap. <br> Kiểm tra dns kéo tới dòng cuối thấy được dấu ```==``` biểu hiện của base64 nên ta sẽ kiểm tra thử.<br> Sau khi lại theo name dns được 1 chuỗi như sau.
+Bài chúng ta được 1 file pcap. <br> Kiểm tra dns kéo tới dòng cuối thấy được dấu ```==``` biểu hiện của base64 nên ta sẽ kiểm tra thử.<br> Sau khi sort lại theo name dns được 1 chuỗi như sau.
 
 ![alt text](image-1.png)
 
